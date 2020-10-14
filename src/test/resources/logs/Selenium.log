@@ -1,0 +1,19 @@
+19:50:56,309 DEBUG devpinoyLogger:70 - Config file loaded !!!
+19:50:56,326 DEBUG devpinoyLogger:85 - OR file loaded !!!
+19:51:10,481 DEBUG devpinoyLogger:119 - Chrome Launched successfully!!!
+19:51:13,844 DEBUG devpinoyLogger:131 - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+19:51:20,104 DEBUG devpinoyLogger:20 - inside login test
+19:51:20,761 DEBUG devpinoyLogger:24 - execute login test
+19:51:20,830 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+19:51:20,831 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:51:20,833 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:51:20,834 DEBUG cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Umani/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19:51:39,948 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+19:51:39,950 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:51:39,950 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:51:39,950 DEBUG cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Umani/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19:51:45,186 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+19:51:45,187 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:51:45,190 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:51:45,191 DEBUG cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Umani/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19:51:45,907 DEBUG devpinoyLogger:236 - test execution completed !!!
